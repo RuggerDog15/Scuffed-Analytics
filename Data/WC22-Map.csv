@@ -1,0 +1,17 @@
+﻿Round,Game,Team1,Team2
+Sixteen,Si1,A1,B2
+Sixteen,Si2,C1,D2
+Sixteen,Si3,E1,F2
+Sixteen,Si4,G1,H2
+Sixteen,Si5,B1,A2
+Sixteen,Si6,D1,C2
+Sixteen,Si7,F1,E2
+Sixteen,Si8,H1,G2
+Quarter,Q1,Si1W,Si2W
+Quarter,Q2,Si3W,Si4W
+Quarter,Q3,Si5W,Si6W
+Quarter,Q4,Si7W,Si8W
+Semi,Se1,Q1W,Q2W
+Semi,Se2,Q3W,Q4W
+Third,T1,Se1L,Se2L
+Final,F1,Se1W,Se2W
