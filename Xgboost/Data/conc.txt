@@ -1,0 +1,34 @@
+Barbados,Cuba	
+British Virgin Islands,Puerto Rico
+Guadeloupe,Antigua and Barbuda
+Saint Martin,Saint Kitts and Nevis
+Suriname,Mexico
+Anguilla,Saint Lucia
+Bahamas,Trinidad and Tobago
+Belize,Guatemala
+French Guiana,Dominican Republic
+Nicaragua,Saint Vincent and the Grenadines
+Grenada,United States
+Bermuda,Guyana
+Montserrat,Haiti
+Sint Maarten,Bonaire
+Turks and Caicos Islands,United States Virgin Islands
+Martinique,Costa Rica
+Curaçao,Canada
+Antigua and Barbuda,Barbados
+Cuba,Guadeloupe
+Puerto Rico,Cayman Islands
+Saint Kitts and Nevis,Aruba
+Mexico,Jamaica
+Dominican Republic,Belize
+Guyana,French Guiana
+Saint Lucia,Dominica
+Saint Vincent and the Grenadines,Bahamas
+Trinidad and Tobago,Nicaragua
+United States,El Salvador
+Bonaire,Turks and Caicos Islands
+Guyana,Montserrat
+Haiti,Bermuda
+United States Virgin Islands,Sint Maarten
+Canada,Honduras
+Costa Rica,Panama
